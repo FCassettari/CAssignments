@@ -1,12 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*
-I Fiore Cassettari certify that this programming assignment reflects my own work,
-without the use of any external individuals (other than course/department staff ), generative-AI,
-or any other forbidden resources. I understand/accept the consequences of cheating as outlined
-in the course syllabus.
-*/
 //node
 typedef struct _sampleNode {
     int ID;
